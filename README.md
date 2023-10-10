@@ -3,3 +3,9 @@
 
 **För att klona detta repository använd kommando "git clone" med länk:**  
 *https://github.com/Benne740/2.1*
+
+Lista nedan syntax
+
+* test1
+- test2
++ test3
